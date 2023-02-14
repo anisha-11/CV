@@ -1,25 +1,23 @@
-## Your Name
+## Anisha Hirani
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+Before joining Makers and becoming a graduate, I was an ALevel student studying Maths, Economics and Finanacial Studies as well as being a part-time Maths and English tutor. I am excited about being able to create a product that can have a great impact on society by using my problem solving and strategic skills.
 
 ## Projects
+For more projects, please follow this link: https://github.com/anisha-11
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **ReelPlaces**               | A team project made a webapp to allow users to find movies filmed in a location of their choice with a map to provide them a way to get there. | React Native, Jest, MongoDB, Express, Node. |
+| **Acebook** | A group project to build a replica of Facebook. | MERN Stack, Jest, Cypress, Mongoose, Handlebars, ESLint, Nodemon.|
+| **MakersBnB** | A group project to build a replica of AirBnB. | Ruby, PostgreSQL, Sinatra, RSpec.|
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Explore Learning** (Feb 2021 - Dec 2022)  
+_Tutor_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
+- Responsible for making sure lessons were delivered to the highest quality. 
+- Being able to quickly adapt to children and their learning abilities.
 
 ## Skills
 
@@ -53,8 +51,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
+#### Makers Academy (Oct 2022 - Feb 2023)
+
+A 16-week intensive software development focussed on the following skills:
+
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
 - OOP, TDD, MVC, DDD
@@ -62,16 +62,26 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Plumstead Manor Sixth Form (Sep 2020 to Jul 2022)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+ALevels
 
-#### Any other qualifications
+- Financial Studies (B)
+- Economics (D)
+- Mathematics (D)
 
-That in some arguable way make you a better software developer or well-rounded person
+#### Plumstead Manor School (Sep 2015 to Jul 2020)
+
+GCSEs
+
+12 Grade 7 to 4 including:
+- Mathematics 7 
+- English Language 6 
+- Statistics 5
+- Gujarati C
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- Volunteering with a non-profit organisation: https://hssuk.org/
+- Various sports 
+- Travelling and exploring new places
