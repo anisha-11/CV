@@ -1,6 +1,6 @@
 ## Anisha Hirani
 
-Before joining Makers and becoming a graduate, I was an ALevel student studying Maths, Economics and Finanacial Studies as well as being a part-time Maths and English tutor. I am excited about being able to create a product that can have a great impact on society by using my problem solving and strategic skills.
+Before joining Makers and becoming a graduate, I was an ALevel student as well as being a part-time Maths and English tutor. I realised University wouldn't be the best option for me when I could get a lot of experience and on the job learnig with Makers Academy. I am excited about being able to create a product that can have a great impact on society by using my problem solving and strategic skills.
 
 ## Projects
 For more projects, please follow this link: https://github.com/anisha-11
@@ -18,49 +18,32 @@ _Tutor_
 
 - Responsible for making sure lessons were delivered to the highest quality. 
 - Being able to quickly adapt to children and their learning abilities.
+- Communicating with parents and providing relevant child feeback.
+- Taking out extra time to plan lessons according to the child's ability.
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+#### Effective communication
 
--STAR
--What was the situation/task? (ST)
+- During my time as a tutor I was able to explain complex concepts to students with different learning abilities in a clear and concise way. This is valuable in software development where effective communication is essential with teamwork and explaining technical details to non-technical workers and writing clear, understandable code. 
 
--How was the skill used?
+#### Attention to detail
 
--What did you do? (action)
+- Having this skill is essential in software development, where even small errors can cause significant problems and impact the performance of the software. Similarly, I used this skill throughout my time as a tutor when I was grading assignments and providing feedback to parents and student, to make sure anything of importance wasn't missing that could potentially hinder a child's future.
 
--What was the result?
+#### Problem-solving
 
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- With my previous job role, I was often helping students work through challenging problems by breaking them down into smaller parts and providing the correct guidance along the way. This skill is critical in software development, where problem-solving is a key component of building software and addressing technical issues that arise during development.
 
 ## Education
 
 #### Makers Academy (Oct 2022 - Feb 2023)
 
 A 16-week intensive software development focussed on the following skills:
-
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Object-Oriented Programming, Test Driven Development, Minimum Viable Product and much more
+- Collaborating in teams with an Agile methodology
+- Pair programming frequently throughout the course
+- Debugging and using our own initiative to tackle problems 
 
 #### Plumstead Manor Sixth Form (Sep 2020 to Jul 2022)
 
