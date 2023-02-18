@@ -1,13 +1,13 @@
 ## Anisha Hirani
 
-Before joining Makers and becoming a graduate, I was an ALevel student as well as being a part-time Maths and English tutor. I realised University wouldn't be the best option for me when I could get a lot of experience and on the job learnig with Makers Academy. I am excited about being able to create a product that can have a great impact on society by using my problem solving and strategic skills.
+Before becoming a Makers graduate, I was an A-Level student as well as a part-time Maths and English tutor. I chose to have coding experience via makers as they mimic a real life work experience. I am excited about being able to create a product that can have a great impact on society by using my problem solving and strategic skills.
 
 ## Projects
 For more projects, please follow this link: https://github.com/anisha-11
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **ReelPlaces**               | A team project made a webapp to allow users to find movies filmed in a location of their choice with a map to provide them a way to get there. | React Native, Jest, MongoDB, Express, Node. |
+| **ReelPlaces**               | A team project where we made a webapp to allow users to find movies filmed in a specific location of their choice with a map to provide them a way to get there. | React Native, Jest, MongoDB, Express, Node. |
 | **Acebook** | A group project to build a replica of Facebook. | MERN Stack, Jest, Cypress, Mongoose, Handlebars, ESLint, Nodemon.|
 | **MakersBnB** | A group project to build a replica of AirBnB. | Ruby, PostgreSQL, Sinatra, RSpec.|
 
@@ -25,7 +25,7 @@ _Tutor_
 
 #### Effective communication
 
-- During my time as a tutor I was able to explain complex concepts to students with different learning abilities in a clear and concise way. This is valuable in software development where effective communication is essential with teamwork and explaining technical details to non-technical workers and writing clear, understandable code. 
+- During my time as a tutor I was able to explain complex concepts to students with different learning abilities in a clear and concise way. This is valuable in software development where effective communication is essential with teamwork and explaining technical details to non-technical workers and writing clear and understandable code. 
 
 #### Attention to detail
 
@@ -44,24 +44,22 @@ A 16-week intensive software development focussed on the following skills:
 - Collaborating in teams with an Agile methodology
 - Pair programming frequently throughout the course
 - Debugging and using our own initiative to tackle problems 
+- As well as pair programming there was a lot of self-learning
 
 #### Plumstead Manor Sixth Form (Sep 2020 to Jul 2022)
 
 ALevels
 
-- Financial Studies (B)
-- Economics (D)
-- Mathematics (D)
+- Financial Studies 
+- Economics 
+- Mathematics 
 
 #### Plumstead Manor School (Sep 2015 to Jul 2020)
 
 GCSEs
 
 12 Grade 7 to 4 including:
-- Mathematics 7 
-- English Language 6 
-- Statistics 5
-- Gujarati C
+- Gujarati (C)
 
 ## Hobbies
 
