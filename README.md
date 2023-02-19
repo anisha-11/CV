@@ -3,7 +3,7 @@
 Before becoming a Makers graduate, I was an A-Level student as well as a part-time Maths and English tutor. I chose to have coding experience via makers as they mimic a real life work experience. I am excited about being able to create a product that can have a great impact on society by using my problem solving and strategic skills.
 
 ## Projects
-For more projects, please follow this link: https://github.com/anisha-11
+For more projects, please follow [here.](https://github.com/anisha-11)
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
@@ -63,6 +63,6 @@ GCSEs
 
 ## Hobbies
 
-- Volunteering with a non-profit organisation: https://hssuk.org/
+- Volunteering with a non-profit organisation called [hssUK](https://hssuk.org/)
 - Various sports 
 - Travelling and exploring new places
