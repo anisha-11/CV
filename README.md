@@ -63,6 +63,6 @@ GCSEs
 
 ## Hobbies
 
-- Volunteering with a non-profit organisation called [hssUK](https://hssuk.org/)
+- Volunteering with a non-profit organisation called [HSSUK](https://hssuk.org/)
 - Various sports 
 - Travelling and exploring new places
