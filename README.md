@@ -1,6 +1,9 @@
 ## Anisha Hirani
 
-Before becoming a Makers graduate, I was an A-Level student as well as a part-time Maths and English tutor. I chose to have coding experience via makers as they mimic a real life work experience. I am excited about being able to create a product that can have a great impact on society by using my problem solving and strategic skills.
+Before becoming a Makers graduate, I was an A-Level student as well as a tutor within the education sector. I chose to have coding experience via makers as they mimic a real life work experience. I am excited about being able to create a product that can have a great impact on society by using my problem solving and strategic skills. I was inspired by seeing how vital technology was within the current education system. This pushed me further to take up code and stem a career out of it. After completing Makers Academy, I pride myself on skills such as TDD and agile methodologies, as well as greatly enjoy pair programming. 
+
+I am currently heavily involved with a non-profit organisation called HSS UK and have been for the past 14 years which instils the ethos of hard work, good morals, selfless working and aligns with my passion for tech for good. I have multiple years of experience with teamwork and using effective communication. This means that I have been managing my time between studies, the organisation and my personal life successfully for a number of years and have gained various skills and qualities that I can apply to this role.
+
 
 ## Projects
 For more repositories please follow [here.](https://github.com/anisha-11)
