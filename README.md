@@ -14,6 +14,8 @@ For more repositories please follow [here.](https://github.com/anisha-11)
 | [**Acebook**](https://github.com/anisha-11/acebook) | A group project to build a replica of Facebook. | MERN Stack, Jest, Cypress, Mongoose, Handlebars, ESLint, Nodemon.|
 | [**MakersBnB**](https://github.com/anisha-11/MakersBnB) | A group project to build a replica of AirBnB. | Ruby, PostgreSQL, Sinatra, RSpec.|
 
+Worked with: Javascript, Ruby, HTML, CSS
+
 ## Work Experience
 
 **Hindu Sevika Samiti (HSS UK)** (Jan 2009 - Present)  
